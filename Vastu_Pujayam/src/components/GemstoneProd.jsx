@@ -1,5 +1,5 @@
 import React from 'react'
-import CategoryCard from '../components/CategoryCard';
+import CategoryCard from './CategoryCard';
 import { useParams } from 'react-router-dom';
 
 function GemstoneProd( name, image) {
